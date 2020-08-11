@@ -1,23 +1,11 @@
-# This is a large heading
+# Me
 
-## This is a smaller heading
+### Where I live
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, for the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.  
+Somewhere in the east coast USA.  
 
-- This is
-- an unordered
-- list
+### Things I like
 
-1. This is
-2. an ordered
-3. list
-
-```
-some code
-goes here
-```
-
-and [a link](https://archive.org/).
+- retro tech
+- video games
+- animals
